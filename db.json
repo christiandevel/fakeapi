@@ -1,39 +1,41 @@
 {
-	"category": [
-		{
-			"id": "123-24",
-			"title": "Turno 24",
-			"color": "bg-teal-500",
-			"visible": true
-		},
-		{
-			"id": "123-25",
-			"title": "Turno 48",
-			"color": "bg-yellow-500",
-			"visible": true
-		},
-		{
-			"id": "123-26",
-			"title": "Turno 52",
-			"color": "bg-pink-500",
-			"visible": true
-		},
-		{
-			"id": "123-27",
-			"title": "Turno 10",
-			"color": "bg-purple-500",
-			"visible": true
-		}
-	],
-	"events": {
-		"id": "12345-6789",
-		"calendarId": "123-24",
-		"title": "Turno 10",
-		"description": "Turno de 10 horas",
-		"start": "2021-12-05T14:00:00.000Z",
-		"end": "2021-12-10T14:00:00.000Z",
-		"duration": 120,
-		"allDay": true,
-		"recurrence": null
-	} 
+  "category": [
+    {
+      "id": "123-24",
+      "title": "Turno 24",
+      "color": "bg-teal-500",
+      "visible": true
+    },
+    {
+      "id": "123-25",
+      "title": "Turno 48",
+      "color": "bg-yellow-500",
+      "visible": true
+    },
+    {
+      "id": "123-26",
+      "title": "Turno 52",
+      "color": "bg-pink-500",
+      "visible": true
+    },
+    {
+      "id": "123-27",
+      "title": "Turno 10",
+      "color": "bg-purple-500",
+      "visible": true
+    }
+  ],
+  "events": [
+    {
+      "id": "12345-6789",
+      "calendarId": "123-24",
+      "title": "Turno 10",
+      "description": "Turno de 10 horas",
+      "start": "2021-12-05T14:00:00.000Z",
+      "end": "2021-12-10T14:00:00.000Z",
+      "duration": 120,
+      "allDay": true,
+      "recurrence": null
+    }
+  ]
 }
