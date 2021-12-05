@@ -46,7 +46,7 @@
       "end": 	 "2021-12-05T22:00:00.000Z",
       "duration": null,
       "allDay": false,
-      "recurrence": null
+      "recurrence": "fREQ=WEEKLY;INTERVAL=2;BYDAY=FR"
     }
   ]
 }
