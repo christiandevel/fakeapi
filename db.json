@@ -24,5 +24,16 @@
 			"color": "bg-purple-500",
 			"visible": true
 		}
-	]
+	],
+	"events": {
+		"id": "12345-6789",
+		"calendarId": "123-24",
+		"title": "Turno 10",
+		"description": "Turno de 10 horas",
+		"start": "2021-12-05T14:00:00.000Z",
+		"end": "2021-12-10T14:00:00.000Z",
+		"duration": 120,
+		"allDay": true,
+		"recurrence": null
+	} 
 }
