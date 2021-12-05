@@ -43,9 +43,9 @@
       "title": "Turno 13",
       "description": "Turno de 10 horas",
       "start": "2021-12-05T14:00:00.000Z",
-      "end": "2021-12-05T22:00:00.000Z",
+      "end": 	 "2021-12-05T22:00:00.000Z",
       "duration": 120,
-      "allDay": true,
+      "allDay": false,
       "recurrence": null
     }
   ]
